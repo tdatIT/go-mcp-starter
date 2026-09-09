@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-go-starter-kit": {
+      "command": "go",
+      "args": ["-C", "/Users/tdatit2k2/Desktop/Code/lab/go-mcp-kit", "run", "."]
+    }
+  }
+}
